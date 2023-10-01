@@ -1,16 +1,19 @@
-### Hi there 👋
+# Robot Programming
 
-<!--
-**VladiMihtarski/VladiMihtarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Robot](robot_image.jpg)
 
-Here are some ideas to get you started:
+## Overview
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub repository! I'm passionate about programming in Python and C++, and I'm on a journey in the world of Mechatronics, specifically focusing on enterprise robotics.
+
+## Programming Preferences
+
+I have a strong affinity for Python and C++. These versatile languages empower me to bring robots to life and solve real-world problems through code.
+
+```python
+def main():
+    print("Programming in Python and C++ fuels my passion.")
+    print("Turning lines of code into robotic actions is pure magic.")
+
+if __name__ == "__main__":
+    main()
