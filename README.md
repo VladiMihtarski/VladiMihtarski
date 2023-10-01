@@ -19,7 +19,11 @@ def main():
 
 if __name__ == "__main__":
     main()
-
+# In the world of Mechatronics and robotics,
+# every line of code is a step toward innovation,
+# and every algorithm is a path to automation.
+# Keep coding, keep building, and let's redefine possibilities.
+```
 ## Mechatronics Journey
 Studying Mechatronics for enterprise robotics is an exciting adventure. I believe that combining mechanical engineering, electronics, and software development holds the key to creating intelligent and efficient robotic systems.
 
