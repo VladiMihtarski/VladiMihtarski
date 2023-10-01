@@ -1,4 +1,4 @@
-# Hello, mate!
+# HMI 
 
 ![download (1)](https://github.com/VladiMihtarski/VladiMihtarski/assets/132908375/8a6fc508-bd58-461d-8f3e-6e0601168775)
 
