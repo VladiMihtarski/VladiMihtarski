@@ -1,6 +1,7 @@
 # Hello, mate!
 
-![robot_image](https://github.com/VladiMihtarski/VladiMihtarski/assets/132908375/5baa8bc4-65a9-4770-a0db-a4b67c3ea8a5)
+![download (1)](https://github.com/VladiMihtarski/VladiMihtarski/assets/132908375/3b4aa477-2765-4166-b127-fb4214d55d56)
+
 
 
 
