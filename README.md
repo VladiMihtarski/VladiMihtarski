@@ -1,4 +1,4 @@
-# Robot Programming
+# Welcome
 
 ![robot_image](https://github.com/VladiMihtarski/VladiMihtarski/assets/132908375/5baa8bc4-65a9-4770-a0db-a4b67c3ea8a5)
 
@@ -19,3 +19,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+## Mechatronics Journey
+Studying Mechatronics for enterprise robotics is an exciting adventure. I believe that combining mechanical engineering, electronics, and software development holds the key to creating intelligent and efficient robotic systems.
+
