@@ -1,4 +1,4 @@
-# HMI 
+# HMI (https://csrc.nist.gov/glossary/term/human_machine_interface#:~:text=Definitions%3A,display%20running%20dedicated%20HMI%20software.) 
 
 ![download (1)](https://github.com/VladiMihtarski/VladiMihtarski/assets/132908375/8a6fc508-bd58-461d-8f3e-6e0601168775)
 
