@@ -1,6 +1,7 @@
 # Robot Programming
 
-![Robot](robot_image.jpg)
+![Robot]![robot_image](https://github.com/VladiMihtarski/VladiMihtarski/assets/132908375/10e0653d-dab2-4356-b3c1-2334d886e584)
+
 
 ## Overview
 
